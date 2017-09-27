@@ -1,0 +1,2 @@
+# BroadcastBestPractice
+一个可以强制用户下机的简单模板
